@@ -1,0 +1,3 @@
+def flip_position(bit_string, position):
+    bit_string[position] = not bit_string[position]
+    return bit_string
