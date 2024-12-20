@@ -1,0 +1,2 @@
+  def ssl(bit_string, k):
+    return bit_string[k:] + [False] * k
