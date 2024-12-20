@@ -1,0 +1,2 @@
+def flip(bit_string):
+    return [not bit for bit in bit_string]
